@@ -1,4 +1,6 @@
 {
   "HOME": "/",
+  "ST": "/st",
+  "POD":"/pods",
   "COUNTER": "/counter"
 }
